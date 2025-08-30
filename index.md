@@ -1,5 +1,6 @@
 # Aditya Kotha's First CS193 Homework
 
+### Favorite Things about CS193
 - The TA's
 - ed discussion
 - friends in the class
